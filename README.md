@@ -135,10 +135,14 @@ python part1_theory.py
 ### Bonus Task
 - Web application deployment using Streamlit/Flask
 
+### Deployment
+link: https://handwrittendigitidentifier.streamlit.app/
+Screenshoot of the deployed app:
+![Dashboard of the deployed app](streamlit_ScreenShot.png)
+![Dashboard of the deployed app](screenshot1.png)
+![Dashboard of the deployed app](screenshot2.png)
 ## Contributors
-- [Your Name]
-- [Team Member 2]
-- [Team Member 3]
+- [Chernet Getaneh](https://github.com/Cherg906)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
