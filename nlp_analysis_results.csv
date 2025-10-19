@@ -1,0 +1,11 @@
+review_id,review_text,rating,category,entities,sentiment
+1,This product is amazing! The quality exceeded my expectations and it arrived quickly.,5,Electronics,[],positive
+2,Not worth the price. The material feels cheap and broke after a week of use.,2,Home,"[('a week', 'DATE')]",negative
+3,Great value for money. I've been using it for a month and it works perfectly.,4,Electronics,"[('a month', 'DATE')]",positive
+4,"The product is okay, but the shipping took longer than expected.",3,Home,[],neutral
+5,Absolutely love it! The design is beautiful and it's very functional.,5,Fashion,[],positive
+6,Terrible experience. The item was damaged upon arrival and customer service was unhelpful.,1,Electronics,[],negative
+7,"Good product overall, but the instructions were unclear.",4,Home,[],positive
+8,I'm very satisfied with my purchase. It's exactly as described in the pictures.,5,Fashion,[],positive
+9,"The quality is decent, but the color is slightly different from what's shown online.",3,Fashion,[],neutral
+10,Best purchase I've made this year! Highly recommend to everyone.,5,Electronics,"[('this year', 'DATE')]",positive
